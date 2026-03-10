@@ -11,7 +11,7 @@ An interactive **multi-page Power BI dashboard** built to analyse retail sales, 
 
 | # | Requirement | Visual Type |
 |---|-------------|-------------|
-| 1 | Top / least 5 products by Sales, Profit & Qty Sold | Horizontal Bar Chart |
+| 1 | Top / Least 5 products by Sales, Profit & Qty Sold | Horizontal Bar Chart |
 | 2 | Sales trend over time (daily, monthly, quarterly) | Line / Area Chart |
 | 3 | Relationship between Sales V/s Profit | Scatter Plot |
 | 4 | Compare Sales/Profit/Qty across two user-selected periods | Clustered Column Chart |
