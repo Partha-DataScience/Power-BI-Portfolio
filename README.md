@@ -6,4 +6,3 @@ Project 1: An interactive multi-page **Power BI dashboard** built to analyse ret
 
 Project 2: Coming Soon...
 
-Project 3:
