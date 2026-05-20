@@ -4,5 +4,5 @@ I'm a **Lead Data Analyst** with **11+ years of experience** in analytics, KPI d
 
 Project 1: An interactive multi-page **Power BI dashboard** built to analyse retail sales, profit, and discount data.
 
-Project 2: Coming Soon...
+Project 2: Coming Soon..
 
